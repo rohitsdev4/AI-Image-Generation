@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generation Studio",
+  "description": "An interactive web application that allows users to generate images from text prompts using Google's Imagen-4 model. Users can refine their results with style, mood, and aspect ratio options in a simple, chat-like interface.",
+  "requestFramePermissions": []
+}
